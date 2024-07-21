@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @komalniraula
 - 👀 I’m interested in Data Science & AI projects.
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on open source and AI projects
 - 📫 How to reach me: https://www.linkedin.com/in/komal-niraula/
 
